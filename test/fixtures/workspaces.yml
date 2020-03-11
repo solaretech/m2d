@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  url: MyString
+  dm_notification: false
+  group_notification: false
+
+two:
+  url: MyString
+  dm_notification: false
+  group_notification: false

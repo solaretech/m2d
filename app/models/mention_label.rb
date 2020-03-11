@@ -1,0 +1,2 @@
+class MentionLabel < ApplicationRecord
+end
